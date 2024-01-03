@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang ="en">
+<heading>tag
+<p>This is the Home section of our page...</P>
+<imp>tags
+<form>tag
+<iframe>tag
+<footer>
+<nav>
+
+
+
+
